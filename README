@@ -1,0 +1,23 @@
+# Phobos and Deimos
+Handsoldered split keyboard based on diverge (https://unikeyboard.io/product/diverge/). 
+
+
+- Split, using two arduino pro micros communicating over i2c
+- unicolor backlighting
+- rgb layer display (?)
+
+## Useful links:
+- Cherry Brown Switches: https://www.amazon.de/-/en/Wholesales-Authentic-Cherry-Mechanical-Keyboard/dp/B07K576PKP/ref=psdc_430221031_t4_B06XFY8NBW?th=1
+- laserboost.com for the plate cutting
+- backlighting led array: 
+-- https://www.reddit.com/r/olkb/comments/6b8o18/help_how_to_wire_a_led_matrix_to_be_controlled_by/
+-- https://www.reddit.com/r/MechanicalKeyboards/comments/6kwl9b/photos_1_month_and_a_teensy_later/
+- TRRS Kabel: 
+-- https://www.amazon.de/-/en/SC7-Rode-Microphone-Cable/dp/B00L6C8T22/ref=sr_1_5?dchild=1&keywords=trrs&qid=1611154788&sr=8-5
+-- https://www.amazon.de/-/en/Alfzero-Replacement-Adapter-External-Microphones-red/dp/B08GQ9FF12/ref=sr_1_10?dchild=1&keywords=trrs&qid=1611154788&rnid=1703609031&s=musical-instruments&sr=1-10
+-- https://www.amazon.de/-/en/HI47YQYUC11J64D273SBJK/dp/B08FD9X4BJ/ref=sr_1_13?dchild=1&keywords=trrs&qid=1611154788&rnid=1703609031&s=musical-instruments&sr=1-13
+- TRRS Buchse:
+-- https://www.amazon.de/-/en/kwmobile-Sockets-Connectors-10-Piece-Connector/dp/B07FVWPJSL/ref=sr_1_21?crid=3TVL7R2R0AUGU&dchild=1&keywords=trrs+buchse+l%C3%B6ten&qid=1611155172&sprefix=trrs+buchse+%2Caps%2C183&sr=8-21
+-- https://www.amazon.de/-/en/InduSKY-Stereo-Connector-Headphone-Socket/dp/B08922BM5R/ref=psdc_1382696031_t2_B07422MCSX
+-- https://www.amazon.de/-/en/Female-Stereo-Audio-Connector-Terminal/dp/B003VSTGC6/ref=sr_1_149?crid=3CEB9F3FHJ2GQ&dchild=1&keywords=mikrofon+buchse+zum+l%C3%B6ten&qid=1611155821&sprefix=mikrofon+buchse%2Caps%2C169&sr=8-149
+- split-logik: https://github.com/nicinabox/lets-split-guide
